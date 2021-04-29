@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simple-rgb.github.io/Mr.Xie.github.io/</id>
     <title>Mr.Xie</title>
-    <updated>2021-04-29T14:22:38.766Z</updated>
+    <updated>2021-04-29T14:28:01.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simple-rgb.github.io/Mr.Xie.github.io/"/>
     <link rel="self" href="https://simple-rgb.github.io/Mr.Xie.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://simple-rgb.github.io/Mr.Xie.github.io/post/gridea-xiao-zhan-jian-cheng/">
         </link>
         <updated>2021-04-29T13:51:45.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    希望Gridea能一直坚挺下去成为我的一线blog阵地嗷！</code></pre>
+        <content type="html"><![CDATA[<pre><code>    希望Gridea能一直坚挺下去嗷！
+    ps:本来还想用来替代CSDN当成代码分享博客的，不过貌似归档和标签问题一直存在，那还是以CSDN为主战场吧，这里就当生活记录阵地吧^~^</code></pre>
 ]]></content>
     </entry>
 </feed>
